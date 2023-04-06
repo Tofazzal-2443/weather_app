@@ -190,7 +190,7 @@ class _HomePageState extends State<HomePage> {
                 ),
               ),
             )
-          : Center(child: CircularProgressIndicator()),
+          : Center(child: CircularProgressIndicator(),),
     );
   }
 }
