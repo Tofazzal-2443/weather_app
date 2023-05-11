@@ -1,16 +1,54 @@
-# weather_app
 
-A new Flutter project.
 
-## Getting Started
+# Weather App
 
-This project is a starting point for a Flutter application.
+This app gives us weather updates based on the current location and forecast weather. Also, have city Search functionality.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="center">
+  <img src="screenshots/home.jpg" width="256" hspace="4">
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Features
+
+- Easy to use
+- Live previews
+- Fullscreen mode
+- Cross platform
+
+
+## Setup
+
+Clone the repository
+
+```bash
+  git clone https://github.com/Tofazzal-2443/weather_app.git
+```
+Move to the desired folder
+
+```bash
+  cd \weather_app
+```
+To run the app, simply write
+
+```bash
+  flutter pub get
+```
+```bash
+  flutter run
+```
+## Tech Stack
+
+**Built With:** Dart, Flutter
+
+
+## Platform
+
+- Android
+
+
+## Support
+
+For support, please contact here [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tofazzal15/)
